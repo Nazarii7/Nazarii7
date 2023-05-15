@@ -4,6 +4,14 @@
 
 <p>I am currently working on improving my technology stack.</p>
 
+<hr/>
+
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
+<br>
+
 <!--
 **Nazarii7/Nazarii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
