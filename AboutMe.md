@@ -50,6 +50,35 @@
   </a>
 </div>
 
+<br/>
+<br/>
+<hr/>
+
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+<div class="stats" align="center">
+<!-- 
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byht1&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) -->
+
+![GitHub Streak](https://streak-stats.demolab.com?user=byht1&count_private=true&theme=algolia&border_radius=20)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byht1&layout=compact&show_icons=true&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<hr/>
+
+<h2 style="color: #44AEFB">My Contacts</h2>
+
+<div class="footer" align="center" style="margin:15px;">
+    <a href="https://www.linkedin.com/in/nazarii-pushkaruk/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40px"/>
+    </a>
+    <a href="mailto:nazariipushkaruk@gmail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+</div>
+
 <!--
 **Nazarii7/Nazarii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
