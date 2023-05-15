@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>About me:</h2>
 
 <!--
 **Nazarii7/Nazarii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
