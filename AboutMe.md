@@ -1,5 +1,9 @@
 <h2>About me:</h2>
 
+<p>I’m currently learning Nest.js, React Testing Library, Vitest</p>
+
+<p>I am currently working on improving my technology stack.</p>
+
 <!--
 **Nazarii7/Nazarii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
