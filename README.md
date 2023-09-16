@@ -1,7 +1,5 @@
 <h2>About me:</h2>
 
-<p>I’m currently learning Nest.js, React Testing Library and Vitest</p>
-
 <p>I am currently working on improving my technology stack.</p>
 
 <hr/>
@@ -36,6 +34,12 @@
   <!-- <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
       <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
   </a> -->
+   <a href="https://nodejs.org/uk" target="_blank" rel="noreferrer">
+      <img  alt="NodeJs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" />
+  </a>
+     <a href="https://expressjs.com/ru/" target="_blank" rel="noreferrer">
+      <img  alt="ExpressJs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
