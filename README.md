@@ -35,7 +35,7 @@
       <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
   </a> -->
    <a href="https://nodejs.org/uk" target="_blank" rel="noreferrer">
-      <img  alt="NodeJs" height="50px" style="padding-right:10px;" src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" />
+      <img  alt="NodeJs" height="50px" style="padding-right:10px;" src="<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>" />
   </a>
      <a href="https://expressjs.com/ru/" target="_blank" rel="noreferrer">
       <img  alt="ExpressJs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
