@@ -31,8 +31,8 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
-   <a href="https://nodejs.org/uk" target="_blank" rel="noreferrer">
-      <img  alt="NodeJs" height="50px" style="padding-right:10px;" src="<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" />
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   </a>
      <a href="https://expressjs.com/ru/" target="_blank" rel="noreferrer">
       <img  alt="ExpressJs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
